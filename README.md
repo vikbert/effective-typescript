@@ -85,13 +85,9 @@ You may want to copy/paste them into the [TypeScript playground][play].
   - [:memo: Item 61][Item 61]: Convert Module by Module Up Your Dependency Graph
   - [:memo: Item 62][Item 62]: Don’t Consider Migration Complete Until You Enable noImplicitAny
 
-[o]: https://www.oreilly.com/library/view/effective-typescript/9781492053736/
-[a]: https://amzn.to/38s1oCK
-[ebook]: https://www.ebooks.com/en-us/209820951/effective-typescript/dan-vanderkam/?_c=1
-[literate-ts]: https://github.com/danvk/literate-ts
-[play]: https://www.typescriptlang.org/play/
+## Code Samples
 
-[Item 1]: /samples/ch01-intro/item-01-ts-vs-js
+[:white_check_mark: Item 1]: /samples/ch01-intro/item-01-ts-vs-js
 [Item 2]: /samples/ch01-intro/item-02-which-ts
 [Item 3]: /samples/ch01-intro/item-03-independent
 [Item 4]: /samples/ch01-intro/item-04-structural
