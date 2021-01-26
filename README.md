@@ -1,13 +1,13 @@
 # Effective TypeScript
 My personal notes for reading the book `Effective TypeScript`
 
-<img src="https://raw.githubusercontent.com/danvk/effective-typescript/master/cover.png" width="280" title="Cover Image" align="right">
+<img src="https://raw.githubusercontent.com/danvk/effective-typescript/master/cover.png" width="180" title="Cover Image" align="right">
 
 ## Code Playground
 You may want to copy/paste them into the [TypeScript playground][play].
 
 ## Notes
-- **Chapter 1: Getting to Know TypeScript**
+- **Chapter 1: Getting to Know TypeScript** [26.01]
   - [:white_check_mark: Item 1][Item 1]: Understand the Relationship Between TypeScript and JavaScript
   - [:white_check_mark: Item 2][Item 2]: Know Which TypeScript Options You’re Using
   - [:white_check_mark: Item 3][Item 3]: Understand That Code Generation Is Independent of Types
