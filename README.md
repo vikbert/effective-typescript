@@ -85,9 +85,8 @@ You may want to copy/paste them into the [TypeScript playground][play].
   - [:memo: Item 61][Item 61]: Convert Module by Module Up Your Dependency Graph
   - [:memo: Item 62][Item 62]: Don’t Consider Migration Complete Until You Enable noImplicitAny
 
-## Code Samples
 
-[:white_check_mark: Item 1]: /samples/ch01-intro/item-01-ts-vs-js
+[Item 1]: /samples/ch01-intro/item-01-ts-vs-js
 [Item 2]: /samples/ch01-intro/item-02-which-ts
 [Item 3]: /samples/ch01-intro/item-03-independent
 [Item 4]: /samples/ch01-intro/item-04-structural
